@@ -1,0 +1,133 @@
+﻿生成启动时间为 2015/12/8 16:04:17。
+     1>项目“E:\MFC\pdf\libharu\libharu.vcxproj”在节点 5 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt hpdf_3dmeasure.c hpdf_annotation.c hpdf_array.c hpdf_binary.c hpdf_boolean.c hpdf_catalog.c hpdf_destination.c hpdf_dict.c hpdf_doc.c hpdf_doc_png.c hpdf_encoder.c hpdf_encoder_cns.c hpdf_encoder_cnt.c hpdf_encoder_jp.c hpdf_encoder_kr.c hpdf_encoder_utf.c hpdf_encrypt.c hpdf_encryptdict.c hpdf_error.c hpdf_exdata.c hpdf_ext_gstate.c hpdf_font.c hpdf_fontdef.c hpdf_fontdef_base14.c hpdf_fontdef_cid.c hpdf_fontdef_cns.c hpdf_fontdef_cnt.c hpdf_fontdef_jp.c hpdf_fontdef_kr.c hpdf_fontdef_tt.c hpdf_fontdef_type1.c hpdf_font_cid.c hpdf_font_tt.c hpdf_font_type1.c hpdf_gstate.c hpdf_image.c hpdf_image_ccitt.c hpdf_image_png.c hpdf_info.c hpdf_list.c hpdf_mmgr.c hpdf_name.c hpdf_namedict.c hpdf_null.c hpdf_number.c hpdf_objects.c hpdf_outline.c hpdf_pages.c hpdf_page_label.c hpdf_page_operator.c hpdf_pdfa.c hpdf_real.c hpdf_streams.c hpdf_string.c hpdf_u3d.c hpdf_utils.c hpdf_xref.c
+         hpdf_xref.c
+         hpdf_utils.c
+         hpdf_u3d.c
+         hpdf_string.c
+         hpdf_streams.c
+         hpdf_real.c
+         hpdf_pdfa.c
+         hpdf_page_operator.c
+     1>e:\mfc\pdf\libharu\hpdf_page_operator.c(1158): warning C4244: “函数”: 从“HPDF_REAL”转换到“HPDF_STATUS”，可能丢失数据
+         hpdf_page_label.c
+         hpdf_pages.c
+         hpdf_outline.c
+         hpdf_objects.c
+         hpdf_number.c
+         hpdf_null.c
+         hpdf_namedict.c
+         hpdf_name.c
+         hpdf_mmgr.c
+         hpdf_list.c
+         hpdf_info.c
+         hpdf_image_png.c
+     1>e:\mfc\pdf\libharu\hpdf_image_png.c(351): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+         正在编译...
+         hpdf_image_ccitt.c
+         hpdf_image.c
+         hpdf_gstate.c
+         hpdf_font_type1.c
+         hpdf_font_tt.c
+         hpdf_font_cid.c
+         hpdf_fontdef_type1.c
+         hpdf_fontdef_tt.c
+         hpdf_fontdef_kr.c
+         hpdf_fontdef_jp.c
+         hpdf_fontdef_cnt.c
+         hpdf_fontdef_cns.c
+         hpdf_fontdef_cid.c
+         hpdf_fontdef_base14.c
+         hpdf_fontdef.c
+         hpdf_font.c
+         hpdf_ext_gstate.c
+         hpdf_exdata.c
+         hpdf_error.c
+         hpdf_encryptdict.c
+         正在生成代码...
+         正在编译...
+         hpdf_encrypt.c
+         hpdf_encoder_utf.c
+         hpdf_encoder_kr.c
+         hpdf_encoder_jp.c
+         hpdf_encoder_cnt.c
+         hpdf_encoder_cns.c
+         hpdf_encoder.c
+     1>e:\mfc\pdf\libharu\hpdf_encoder.c(2766): warning C4244: “初始化”: 从“HPDF_UINT16”转换到“HPDF_BYTE”，可能丢失数据
+         hpdf_doc_png.c
+         hpdf_doc.c
+         hpdf_dict.c
+         hpdf_destination.c
+         hpdf_catalog.c
+         hpdf_boolean.c
+         hpdf_binary.c
+         hpdf_array.c
+         hpdf_annotation.c
+         hpdf_3dmeasure.c
+         正在生成代码...
+       Lib:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\MFC\pdf\Debug\libharu.lib" /NOLOGO Debug\hpdf_3dmeasure.obj
+         Debug\hpdf_annotation.obj
+         Debug\hpdf_array.obj
+         Debug\hpdf_binary.obj
+         Debug\hpdf_boolean.obj
+         Debug\hpdf_catalog.obj
+         Debug\hpdf_destination.obj
+         Debug\hpdf_dict.obj
+         Debug\hpdf_doc.obj
+         Debug\hpdf_doc_png.obj
+         Debug\hpdf_encoder.obj
+         Debug\hpdf_encoder_cns.obj
+         Debug\hpdf_encoder_cnt.obj
+         Debug\hpdf_encoder_jp.obj
+         Debug\hpdf_encoder_kr.obj
+         Debug\hpdf_encoder_utf.obj
+         Debug\hpdf_encrypt.obj
+         Debug\hpdf_encryptdict.obj
+         Debug\hpdf_error.obj
+         Debug\hpdf_exdata.obj
+         Debug\hpdf_ext_gstate.obj
+         Debug\hpdf_font.obj
+         Debug\hpdf_fontdef.obj
+         Debug\hpdf_fontdef_base14.obj
+         Debug\hpdf_fontdef_cid.obj
+         Debug\hpdf_fontdef_cns.obj
+         Debug\hpdf_fontdef_cnt.obj
+         Debug\hpdf_fontdef_jp.obj
+         Debug\hpdf_fontdef_kr.obj
+         Debug\hpdf_fontdef_tt.obj
+         Debug\hpdf_fontdef_type1.obj
+         Debug\hpdf_font_cid.obj
+         Debug\hpdf_font_tt.obj
+         Debug\hpdf_font_type1.obj
+         Debug\hpdf_gstate.obj
+         Debug\hpdf_image.obj
+         Debug\hpdf_image_ccitt.obj
+         Debug\hpdf_image_png.obj
+         Debug\hpdf_info.obj
+         Debug\hpdf_list.obj
+         Debug\hpdf_mmgr.obj
+         Debug\hpdf_name.obj
+         Debug\hpdf_namedict.obj
+         Debug\hpdf_null.obj
+         Debug\hpdf_number.obj
+         Debug\hpdf_objects.obj
+         Debug\hpdf_outline.obj
+         Debug\hpdf_pages.obj
+         Debug\hpdf_page_label.obj
+         Debug\hpdf_page_operator.obj
+         Debug\hpdf_pdfa.obj
+         Debug\hpdf_real.obj
+         Debug\hpdf_streams.obj
+         Debug\hpdf_string.obj
+         Debug\hpdf_u3d.obj
+         Debug\hpdf_utils.obj
+         Debug\hpdf_xref.obj
+         libharu.vcxproj -> E:\MFC\pdf\Debug\libharu.lib
+     1>已完成生成项目“E:\MFC\pdf\libharu\libharu.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.21

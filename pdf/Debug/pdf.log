@@ -1,0 +1,10 @@
+﻿生成启动时间为 2015/12/8 16:04:24。
+     1>项目“E:\MFC\pdf\pdf\pdf.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MFC\pdf\Debug\pdf.exe" /INCREMENTAL /NOLOGO zlib.lib libharu.lib libpng.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MFC\pdf\Debug\pdf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MFC\pdf\Debug\pdf.lib" /MACHINE:X86 Debug\pdf.obj
+         pdf.vcxproj -> E:\MFC\pdf\Debug\pdf.exe
+     1>已完成生成项目“E:\MFC\pdf\pdf\pdf.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.29
